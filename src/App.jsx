@@ -1,6 +1,6 @@
 import Home from "./components/Home"
 import Menu from "./components/Menu"
-import Tematica from "./components/Tematica"
+import Acerca from "./components/Acerca"
 
 
 function App() {
@@ -10,8 +10,8 @@ function App() {
     <div className=" h-screen bg-slate-500 ">
       <Menu/>
       <Home/>
-      <Tematica/>
-      <Tematica/>
+      <Acerca/>
+      <Acerca/>
     </div>
   )
 }

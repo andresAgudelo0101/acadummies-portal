@@ -15,7 +15,7 @@
     90deg,
     rgba(46, 42, 115, 1) 0%,
     rgba(74, 232, 233, 1) 43%,
-    rgba(0, 212, 255, 1) 100%
+    #00d4ff 100%
   );
   background-clip: text;
   -webkit-text-fill-color: transparent;

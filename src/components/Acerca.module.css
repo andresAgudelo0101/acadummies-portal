@@ -1,0 +1,27 @@
+.container{
+    background-image: linear-gradient(to right top, #2e2a73, #1b549f, #007ec5, #00a9e5, #00d4ff);
+}
+
+.title{
+    font-family: system-ui;
+    text-align: center;
+    font-size: 5rem;
+    font-weight: 800;
+    letter-spacing: -0.06em;
+    background: rgb(46, 42, 115);
+  background: linear-gradient(
+    90deg,
+    rgba(46, 42, 115, 1) 0%,
+    rgba(249, 203, 40, 1) 13%,
+    rgba(242, 74, 222, 1) 99%
+  );
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+    
+@media (max-width: 640px) {
+    .title{
+        font-size: 2.4rem;
+    }
+}
