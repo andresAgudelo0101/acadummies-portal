@@ -43,25 +43,22 @@ function Acerca() {
           <p className=" text-2xl font-semibold leading-normal tracking-tight text-gray-900 font-sans ">
             Por experiencia propia he intentado seguir ampliando mis
             conocimientos. ya sean cursos o bootcamps o alternaticas como platzi
-            las cuales la opcion mas economica eran los cursos pero hacia falta
-            algo lo cual era la interaccion humana ya sea con profesores u
-            estudiantes. las otras alternativas eran o son excesivamenmte
-            costosas algunas te dicen que cobran cuando consigues un empleo
-            suena bien estudiar gratis y luego pagar verdad, pues haciendo
-            calculos te cobran aproximadamente $2000 dolares un 12% de tu
-            salario durante 3 años, es una barbaridad esos precios en los cuales
-            siempre en la mayoria te enseñan lo mismo. alternativas como platzi
-            o coderhouse aunque no llegan a esos extremos siguen teniendo
-            precios realmente altos.
+            las cuales la opcion mas economica son los cursos, pero hacia falta
+            algo lo cual era la interaccion humana. estas alternativas son
+            excesivamenmte costosas algunas te cobran cuando consigues un empleo
+            suena bien verdad, pues haciendo calculos te cobran aproximadamente
+            $2000 dolares un 12% de tu salario durante 3 años, es una barbaridad
+            esos precios en los cuales siempre en la mayoria te enseñan lo
+            mismo.
           </p>
           <p className=" text-3xl font-bold">Ahora si ¿Por qué Acadummies?</p>
           <div className=" text-left text-2xl font-normal leading-normal tracking-tight text-gray-900 font-sans p-2">
             <b>{"1)."}</b> Acadummies solo cuesta{" "}
             <b className=" text-2xl">$80.000</b> pesos si estas en colombia o{" "}
             <b className=" text-2xl">$19 </b>
-            dolares si estas en otro pais de latino america, puedes
-            negociar ese precio como todo buen latino que busca una rebaja y
-            estamos dispuestos a negociar.<br></br>
+            dolares si estas en otro pais de latino america, puedes negociar ese
+            precio como todo buen latino que busca una rebaja y estamos
+            dispuestos a negociar.<br></br>
             <b>{"2)."}</b> El tiempo es tuyo, ya mencionado anteriormente este
             curso esta planeado para finalizarlo en 3 meses si te excedes mas
             alla de este tiempo no importa no habran recargos.<br></br>

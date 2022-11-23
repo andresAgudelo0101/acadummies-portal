@@ -1,0 +1,91 @@
+export const weeks= [
+    {
+        semana:1,
+        temas:[
+            {
+                icono:'git.png',
+                titulo:'git / GitHub'
+            },
+            {
+                icono:'html.png',
+                titulo:'Html'
+            }
+        ]
+    },
+    {
+        semana:2,
+        temas:[
+            {
+                icono:'css.png',
+                titulo:'Css'
+            }
+        ]
+    },
+    {
+        semana:3,
+        temas:[
+            {
+                icono:'js.png',
+                titulo:'Javascript'
+            }
+        ]
+    },
+    {
+        semana:4,
+        temas:[
+            {
+                icono:'react.png',
+                titulo:'React Js'
+            }
+        ]
+    },
+    {
+        semana:5,
+        temas:[
+            {
+                icono:'react.png',
+                titulo:'React js'
+            }
+        ]
+    },
+    {
+        semana:6,
+        temas:[
+            {
+                icono:'next.png',
+                titulo:'Next js'
+            }
+        ]
+    },
+    {
+        semana:7,
+        temas:[
+            {
+                icono:'node.png',
+                titulo:'Node js'
+            }
+        ]
+    },
+    {
+        semana:8,
+        temas:[
+            {
+                icono:'mongo.png',
+                titulo:'Mongo db'
+            },
+            {
+                icono:'mysql.png',
+                titulo:'Mysql'
+            }
+        ]
+    },
+    {
+        semana:9,
+        temas:[
+            {
+                icono:'angular.png',
+                titulo:'Angular'
+            }
+        ]
+    },
+]

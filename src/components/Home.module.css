@@ -13,8 +13,8 @@
   background: rgb(46, 42, 115);
   background: linear-gradient(
     90deg,
-    rgba(46, 42, 115, 1) 0%,
-    rgba(74, 232, 233, 1) 43%,
+    #2e2a73 0%,
+    #4ae8e9 43%,
     #00d4ff 100%
   );
   background-clip: text;
