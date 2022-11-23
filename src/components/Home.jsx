@@ -2,7 +2,7 @@ import styles from "./Home.module.css";
 function Home() {
   return (
     <div
-      className="flex items-center justify-center h-screen bg-black text-slate-50 md:h-5/6"
+      className="flex items-center justify-center h-screen bg-black text-slate-50 "
       id="home"
     >
       <div>

@@ -1,6 +1,7 @@
 import Home from "./components/Home"
 import Menu from "./components/Menu"
 import Acerca from "./components/Acerca"
+import PlanEstudios from "./components/PlanEstudios"
 
 
 function App() {
@@ -11,7 +12,7 @@ function App() {
       <Menu/>
       <Home/>
       <Acerca/>
-      <Acerca/>
+      <PlanEstudios/>
     </div>
   )
 }
