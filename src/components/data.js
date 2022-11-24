@@ -43,8 +43,8 @@ export const weeks= [
         semana:5,
         temas:[
             {
-                icono:'react.png',
-                titulo:'React js'
+                icono:'vite.png',
+                titulo:'Vite js & React'
             }
         ]
     },
@@ -83,8 +83,35 @@ export const weeks= [
         semana:9,
         temas:[
             {
+                icono:'mern.png',
+                titulo:'Proyecto crud utilizando MERN'
+            }
+        ]
+    },
+    {
+        semana:10,
+        temas:[
+            {
                 icono:'angular.png',
                 titulo:'Angular'
+            }
+        ]
+    },
+    {
+        semana:11,
+        temas:[
+            {
+                icono:'portafolio.png',
+                titulo:'Proyecto portafolio'
+            }
+        ]
+    },
+    {
+        semana:12,
+        temas:[
+            {
+                icono:'grados.png',
+                titulo:'Graduacion y ultimos consejos'
             }
         ]
     },
