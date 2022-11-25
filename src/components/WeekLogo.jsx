@@ -4,7 +4,7 @@ function WeekLogo(props) {
             <div className="flex justify-center">
               <img src={`./logos/${props.icon}`} width="44" className=" hover:scale-125 hover:opacity-80"/>
             </div>
-            <p className="text-lg text-slate-100 font-medium">{props.titulo}</p>
+            <p className="text-xl font-light leading-normal tracking-tight text-slate-50">{props.titulo}</p>
         </div>
     )
 }

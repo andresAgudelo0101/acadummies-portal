@@ -14,8 +14,8 @@ function Home() {
           <span className={`${styles.span3} ${styles.span}`}>Es fácil.</span>
         </h1>
         <div className=" w-full flex justify-center">
-          <a className={styles.btn} href="#about">
-            Ver mas
+          <a className={styles.btn} href="#acerca">
+          Ver más
           </a>
         </div>
       </div>

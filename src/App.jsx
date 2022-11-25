@@ -3,6 +3,7 @@ import Menu from "./components/Menu"
 import Acerca from "./components/Acerca"
 import PlanEstudios from "./components/PlanEstudios"
 import Contacto from "./components/Contacto"
+import Footer from "./components/Footer"
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <Acerca/>
       <PlanEstudios/>
       <Contacto/>
+      <Footer/>
     </div>
   )
 }
