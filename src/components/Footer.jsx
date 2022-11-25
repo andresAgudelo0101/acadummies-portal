@@ -4,10 +4,10 @@ function Footer() {
       <div>
         <p className="text-lg font-normal leading-normal tracking-tight ">Síguenos</p>
         <div className="flex flex-row gap-2 justify-center">
-          <a href="https://www.instagram.com/dummies.academy/">
+          <a href="https://www.instagram.com/dummies.academy/" target="_blank">
             <img src="./logos/insta.png" className="w-6 hover:scale-125" />
           </a>
-          <a href="https://www.facebook.com/profile.php?id=100087537554988">
+          <a href="https://www.facebook.com/profile.php?id=100087537554988" target="_blank">
             <img src="./logos/face.png" className="w-6 hover:scale-125" />
           </a>
         </div>
