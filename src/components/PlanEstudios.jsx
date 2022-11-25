@@ -32,7 +32,7 @@ function PlanEstudios() {
             gratis solo da clic.
           </h2>
           <div className="flex w-full justify-center">
-            <a href="#" className={styles.btn}>
+            <a href="https://acadummies-plataform.vercel.app/" target="_blank" className={styles.btn}>
               Aquí
             </a>
           </div>
